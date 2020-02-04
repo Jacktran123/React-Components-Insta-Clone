@@ -39,8 +39,9 @@
   margin: 5px;
   border-radius: 50%;
 }
-.like-section {
+.like-section .comment-section{
   display: flex;
+  flex-direction: row;
   justify-content: flex-start;
 }
 
